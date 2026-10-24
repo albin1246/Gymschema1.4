@@ -1,0 +1,1 @@
+GYMSCHEMA: Ladda upp ALLA filer i denna mapp direkt i huvudmappen (main) på GitHub. Ingen undermapp behövs. Du kan lämna gamla filer kvar. Öppna appen på nytt efter GitHub Pages publicerat. Radera inte appdata.
